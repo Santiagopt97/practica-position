@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.header{
+    display: flex;
+    align-items: center;
+    border-bottom: 2px solid rgb(140, 40, 246);
+}
+
+.logo{
+    height: 100px;
+}
+
+.seccion1{
+    display: flex;
+    justify-content: center;
+}
+
+h2{
+    position: relative;
+    left: -45%;
+}
+
